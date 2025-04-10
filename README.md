@@ -1,12 +1,10 @@
-# React + Vite
+## Cadastro de Usuários
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   _ Foi um projeto desenvolvido e práticado na aula de React apresentado pelo DevClub, foi feito de acordo com as aulas. Usamos as tecnologias HTLM, CSS, JavaScript, Node.js e React. Um projeto com uma gama extensa de conhecimentos.<br><br>
+     O projeto foi elaborado para cadastro de usuários no banco de dados assim confirmando na tela seus dados, foi criando uma página de verificação dos usuários cadastrados, tendo opção de voltar para página anterior até mesmo excluír usuários.<br><br>
+     Projeto veio para agregar muitos mais conhecimentos, o primeiro desafio de vários que pretendo ter nessa nova etapa._
+     <br><br>
 
-Currently, two official plugins are available:
+     
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/91f6af39-6fd0-4d03-b269-d82d999115d1)
